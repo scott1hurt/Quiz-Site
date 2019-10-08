@@ -1,0 +1,19 @@
+#submit, #reset{
+    font-size: 20px;
+    background-color: goldenrod;
+    color: #fff;
+    padding: 20px;
+    cursor: pointer;
+    display: block;
+    width: 200px;
+    margin-bottom: 20px;
+}
+#submit:hover, #reset:hover{
+    background-color: burlywood;
+}
+.answers{
+    margin-bottom: 20px;
+}
+.answers label {
+    display: block;
+}
